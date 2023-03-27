@@ -5,6 +5,9 @@ Find out more about me and my work on my website.
 
 ![](https://camo.githubusercontent.com/d7d22afb2c4bb5df4b37f04f3983b51abfc2c029aabfed29a54d0440331245f1/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d68767269626265636b2e68767269626265636b)
 
+Get in touch:
+contact@k1da.de
+
 <!--
 **casudo/casudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
