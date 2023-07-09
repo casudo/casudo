@@ -3,13 +3,13 @@
 casudo@github:~$ cat README.md
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Kida+%F0%9F%91%8B.+Welcome+to+my+profile!" alt="Hey, I'm Kida.">
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=3000&pause=1200&color=FAFAFA&center=true&vCenter=true&width=940&height=110&lines=Hey%2C+I'm+Kida+%F0%9F%91%8B;Welcome+to+my+profile!" alt="Hey, I'm Kida.">
 <img src="assets/borderseperator.gif"> &nbsp;
 
 <!----------- MIDDLE ----------->
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=casudo" alt="My profile views">
-    <img src="https://img.shields.io/badge/Version-v2.0.0-informational?color=purple">
+    <img src="https://img.shields.io/badge/Version-v2.0.2-informational?color=purple">
     <img alt="Website" src="https://img.shields.io/website?up_message=%20Operational&url=https%3A%2F%2Fuptime.k1da.de&label=Uptime&link=https%3A%2F%2Fuptime.k1da.de">
     <br>
     <img src="https://img.shields.io/github/followers/casudo?label=follow&style=social" alt="GitHub followers">
