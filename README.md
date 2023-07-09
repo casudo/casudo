@@ -18,14 +18,14 @@ casudo@github:~$ cat README.md
 <!-- About Me -->
 <h2 align="center">About Me</h2>
 
-👀 IT enthusiast and self-taught hobby developer
-🤖 Full-time Network Engineer
-💻 Selfhosted nearly every cloud alternative
-🤝 Looking forward to new challenges and opportunities in the ever-evolving IT landscape.
-🌟 Passionate about technology and constantly expanding my skills in the IT world.
+👀 IT enthusiast and self-taught hobby developer  
+🤖 Full-time Network Engineer  
+💻 Selfhosted nearly every cloud alternative  
+🤝 Looking forward to new challenges and opportunities in the ever-evolving IT landscape.  
+🌟 Passionate about technology and constantly expanding my skills in the IT world.  
 
-🚀 Let's connect and explore how we can collaborate!
-✉️ Reach me at contact (æt) k1da (døt) de
+🚀 Let's connect and explore how we can collaborate!  
+✉️ Reach me at contact (æt) k1da (døt) de  
 
 <div align="center">
   <!-- Skills -->
