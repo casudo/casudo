@@ -30,12 +30,12 @@ casudo@github:~$ cat README.md
 <div align="center">
   <!-- Skills -->
   <h2>Currently Using</h2>
-  <img src="https://skillicons.dev/icons?i=bash,git,linux,django,python,html,css,js,docker,vscode,gitlab" alt="skills actively using"> 
+  <img src="https://skillicons.dev/icons?i=bash,git,linux,django,python,html,css,js,docker,vscode,gitlab,bootstrap" alt="skills actively using"> 
   <br> 
   <h2>Used In The Past</h2>
   <img src="https://skillicons.dev/icons?i=cs,cpp,pr,ansible,dotnet,jquery,kotlin,php,unity,visualstudio" alt="skills not actively used">
   <h2>Planned to learn</h2>
-  <img src="https://skillicons.dev/icons?i=bootstrap,regex" alt="skills planned to learn">
+  <img src="https://skillicons.dev/icons?i=regex" alt="skills planned to learn">
 
   <!-- Statistics -->
   <h2>My Stats</h2>
@@ -66,41 +66,12 @@ casudo@github:~$ cat README.md
   <a href="https://github.com/casudo">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-purple?&logo=github&logoColor=white">
   </a>
+
+  <a href="https://hub.docker.com/r/casudo1/vcard">
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-cyan?&logo=docker&logoColor=white">
+  </a>
 </div>
 
 <br><br><br><br>
 
 <img align="left" height="200" src="https://4f.to/img/2022/9/18/221645/large.png">
-
-
-
-
-
-
-
-
-
-
-
-<!-- ### Hi there 👋
-
-I'm casudo and I develop different things.. 
-Find out more about me and my work on my website.
-
-Get in touch:
-contact@k1da.de -->
-
-<!--
-**casudo/casudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
