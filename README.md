@@ -9,7 +9,7 @@ casudo@github:~$ cat README.md
 <!----------- MIDDLE ----------->
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=casudo" alt="My profile views">
-    <img src="https://img.shields.io/badge/Version-v2.0.2-informational?color=purple">
+    <img src="https://img.shields.io/badge/Version-v2.0.3-informational?color=purple">
     <img alt="Website" src="https://img.shields.io/website?up_message=%20Operational&url=https%3A%2F%2Fuptime.k1da.de&label=Uptime&link=https%3A%2F%2Fuptime.k1da.de">
     <br>
     <img src="https://img.shields.io/github/followers/casudo?label=follow&style=social" alt="GitHub followers">
