@@ -9,7 +9,7 @@ casudo@github:~$ cat README.md
 <!----------- MIDDLE ----------->
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=casudo" alt="My profile views">
-    <img src="https://img.shields.io/badge/Version-v2.0.3-informational?color=purple">
+    <img src="https://img.shields.io/badge/Version-v2.0.4-informational?color=purple">
     <img alt="Website" src="https://img.shields.io/website?up_message=%20Operational&url=https%3A%2F%2Fuptime.k1da.de&label=Uptime&link=https%3A%2F%2Fuptime.k1da.de">
     <br>
     <img src="https://img.shields.io/github/followers/casudo?label=follow&style=social" alt="GitHub followers">
@@ -18,14 +18,14 @@ casudo@github:~$ cat README.md
 <!-- About Me -->
 <h2 align="center">About Me</h2>
 
-👀 IT enthusiast and self-taught hobby developer  
+👀 IT enthusiast and self-taught developer  
 🤖 Full-time Network Engineer  
 💻 Selfhosted nearly every cloud alternative  
 🤝 Looking forward to new challenges and opportunities in the ever-evolving IT landscape.  
 🌟 Passionate about technology and constantly expanding my skills in the IT world.  
 
 🚀 Let's connect and explore how we can collaborate!  
-✉️ Reach me at contact (æt) k1da (døt) de  
+✉️ Reach me at hello (æt) kida (døt) one  
 
 <div align="center">
   <!-- Skills -->
@@ -55,11 +55,11 @@ casudo@github:~$ cat README.md
 <div align="center">
   <h2>My Socials</h2>  
 
-  <a href="https://k1da.de">
+  <a href="https://www.linkedin.com/in/kidaone/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?&logo=linkedin&logoColor=white">
   </a> &nbsp;
 
-  <a href="mailto:contact@k1da.de">
+  <a href="mailto:hello@kida.one">
     <img alt="Mail" src="https://img.shields.io/badge/Mail-darkblue?&logo=gmail&logoColor=white"> 
   </a> &nbsp;
 
@@ -73,5 +73,3 @@ casudo@github:~$ cat README.md
 </div>
 
 <br><br><br><br>
-
-<img align="left" height="200" src="https://4f.to/img/2022/9/18/221645/large.png">
